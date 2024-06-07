@@ -42,5 +42,5 @@ Base UI, by contrast, could be considered the "skeletal" or "headless" counterp
 ## Start now
 
 Get started with Material UI today through some of these useful resources:
-
+get started
 {{"component": "modules/components/MaterialStartingLinksCollection.js"}}
